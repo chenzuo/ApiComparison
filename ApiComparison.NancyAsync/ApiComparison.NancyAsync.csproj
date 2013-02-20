@@ -72,7 +72,6 @@
     <Compile Include="Dtos\AddObjectRequestDto.cs" />
     <Compile Include="Dtos\GetObjectResponseDto.cs" />
     <Compile Include="Modules\ExampleModule.cs" />
-    <Compile Include="Modules\GeneratedModule.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
