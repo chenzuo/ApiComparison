@@ -125,9 +125,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Controllers\Objects\Generated.cs">
-      <SubType>Code</SubType>
-    </Compile>
     <Compile Include="Controllers\Objects\ObjectsController.cs" />
     <Compile Include="Dtos\AddObjectRequestDto.cs" />
     <Compile Include="Dtos\GetObjectResponseDto.cs" />
